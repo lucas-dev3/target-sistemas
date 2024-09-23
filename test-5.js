@@ -32,3 +32,11 @@ if (distanciaCarro < distanciaCaminhao) {
 } else {
     console.log("O caminhão estará mais próximo de Ribeirão Preto.");
 }
+
+// Explicação do resultado
+// Quando o carro e o caminhão se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto, mesmo 
+// levando em conta o atraso causado pelos pedágios. Essa conclusão se baseia no cálculo das distâncias percorridas e no
+// tempo que cada veículo levou para alcançar o ponto de encontro.
+
+
+
